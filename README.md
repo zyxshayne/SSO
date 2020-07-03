@@ -9,3 +9,5 @@ www.b.com :提供B服务
 sso:认证中心
 
 重写session机制，共享session存储，都是写在redis中 
+
+测试冲突 apache
